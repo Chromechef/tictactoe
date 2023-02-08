@@ -30,3 +30,6 @@ This project will be broken down by 4 files.
 2. From this point it will bounce between player 2 and 1
 3. When three images are in a row it will declare that player the winner
 4. If a tie game it will render a Tie game.
+
+## Figma file
+[TicTacToe Figma file](https://www.figma.com/file/B7gnPeDlkH6byq4TLzLFXV/Untitled?node-id=0%3A1&t=ZhYMOtNfE63XBhcG-0)
