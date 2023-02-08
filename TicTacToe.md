@@ -2,10 +2,10 @@
 
 Welcome to the first study group. Our target is one hour.
 
-This will help us build practice by using GitHub with pull request and merging in a group enviroment.  
+This will help us build practice by using GitHub with pull request and merging in a group environment.  
 
 
-Here we are going to go over some fundimentals of web development by creating a simple app of TicTacToe.
+Here we are going to go over some fundamentals  of web development by creating a simple app of TicTacToe.
 
 
 The goal is to make this as responsive as possible within the time. 
